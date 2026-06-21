@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-de-amor-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Latidos de amor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-amor-eterno/) |
+| **Get License** | [Commercial Licensing for Latidos de amor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-amor-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Late night whispers call your name
+> Heartbeat burning like a flame
+> One touch and I lose control
+> Baby take me body and soul
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
