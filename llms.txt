@@ -1,4 +1,4 @@
-# Latidos de amor eterno
+# Latidos de amor eterno, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Latidos de amor eterno |
+| **Title** | Latidos de amor eterno, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-de-amor-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Latidos de amor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-amor-eterno/) |
+| **Get License** | [Commercial Licensing for Latidos de amor eterno, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-amor-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
