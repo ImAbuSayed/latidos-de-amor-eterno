@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-de-amor-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Latidos de amor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-amor-eterno/) |
+| **Get License** | [Get License For Latidos de amor eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-amor-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `df25ab041feadc4923752650b5e1c3d23939a1915d9802280a4cf8ab32c80516` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
